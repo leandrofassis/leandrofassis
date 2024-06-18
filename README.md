@@ -11,5 +11,6 @@ Ciêntista/ Analista de Dados dedicado e apaixonado pela tradução de dados em 
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leandrofassis&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leandrofassis&repo=An-lise-de-dados-COVID-19-Dashboard
+)](https://github.com/anuraghazra/github-readme-stats)
 
